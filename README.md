@@ -37,11 +37,11 @@ No se usan TreeSet, TreeMap, PriorityQueue, NavigableSet ni NavigableMap.
 ## 4. Resultados
 | Caso de prueba | Esperado | Obtenido |
 |---|---|---|
-| Árbol vacío | 0 nodos, altura -1 | _completar_ |
-| Un solo nodo | 1 hoja, altura 0 | _completar_ |
-| Árbol inicial | 9 nodos, 5 hojas, altura 3 | _completar_ |
-| Insertar en posición ocupada | Se rechaza | _completar_ |
-| Grado de FISEI y SOFTWARE | 2 y 2 | _completar_ |
+| Árbol vacío | 0 nodos, altura -1 | 0 nodos, altura -1, árbol vacío: true |
+| Un solo nodo | 1 hoja, altura 0 | 1 nodo, 1 hoja, altura 0 |
+| Árbol inicial | 9 nodos, 5 hojas, altura 3 | 9 nodos, 5 hojas, altura 3 |
+| Insertar en posición ocupada | Se rechaza |  Rechazada: “La posición izquierda de ‘UNIVERSIDAD’ ya está ocupada por ‘FISEI’” |
+| Grado de FISEI y SOFTWARE | 2 y 2 |FISEI: 2, SOFTWARE: 2 |
 
 
 
