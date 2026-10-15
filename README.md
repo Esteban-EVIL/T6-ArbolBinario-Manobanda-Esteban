@@ -44,4 +44,30 @@ No se usan TreeSet, TreeMap, PriorityQueue, NavigableSet ni NavigableMap.
 | Grado de FISEI y SOFTWARE | 2 y 2 |FISEI: 2, SOFTWARE: 2 |
 
 
+## Capturas de ejecución
+
+### 1. Crear el árbol inicial
+![Crear árbol](capturas/01-crear-arbol.png)
+
+### 2. Visualizar el árbol
+![Visualizar árbol](capturas/02-visualizar-arbol.png)
+
+### 3. Número de nodos
+![Número de nodos](capturas/03-numero-nodos.png)
+
+### 4. Número de hojas
+![Número de hojas](capturas/04-numero-hojas.png)
+
+### 5. Altura
+![Altura](capturas/05-altura.png)
+
+### 6. Grado de un nodo
+![Grado de un nodo](capturas/06-grado-nodo.png)
+
+### 7. Verificar si un nodo es hoja
+![Verificar hoja](capturas/07-es-hoja.png)
+
+### 8. Casos de prueba obligatorios
+![Casos de prueba](capturas/08-casos-de-prueba.png)
+
 
